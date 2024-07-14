@@ -75,3 +75,5 @@ playButton.addEventListener('click', function() {
     }
     isPlaying = !isPlaying;
 });
+
+updateTimerDisplay(); // Initialize the timer display
